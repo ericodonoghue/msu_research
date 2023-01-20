@@ -1,0 +1,45 @@
+NAME               INSTALLED  FIXED-IN     TYPE          VULNERABILITY        SEVERITY 
+commons-beanutils  1.9.3      1.9.4        java-archive  GHSA-6phf-73q6-gh87  High      
+commons-beanutils  1.9.3                   java-archive  CVE-2019-10086       High      
+commons-io         2.4        2.7          java-archive  GHSA-gwrp-pvrq-jmwv  Medium    
+commons-io         2.4                     java-archive  CVE-2021-29425       Medium    
+gson               2.8.5      2.8.9        java-archive  GHSA-4jrv-ppp4-jm57  High      
+gson               2.8.5                   java-archive  CVE-2022-25647       High      
+guava              21.0       24.1.1       java-archive  GHSA-mvr2-9pj6-7w5j  Medium    
+guava              21.0                    java-archive  CVE-2018-10237       Medium    
+guava              21.0                    java-archive  CVE-2020-8908        Low       
+guava              21.0                    java-archive  GHSA-5mg8-w23w-74h3  Low       
+xstream            1.4.8      1.4.19       java-archive  GHSA-rmr5-cpv2-vgjf  High      
+xstream            1.4.8      1.4.16       java-archive  GHSA-hrcp-8f3q-4w2c  Medium    
+xstream            1.4.8      1.4.18       java-archive  GHSA-hph2-m3g5-xxv4  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-3ccq-5vw3-2p6x  High      
+xstream            1.4.8      1.4.17       java-archive  GHSA-7chv-rrw6-w6fc  High      
+xstream            1.4.8      1.4.16       java-archive  GHSA-4hrm-m67v-5cxr  Medium    
+xstream            1.4.8      1.4.16       java-archive  GHSA-hwpc-8xqv-jvj4  Medium    
+xstream            1.4.8      1.4.18       java-archive  GHSA-cxfm-5m4g-x7xp  High      
+xstream            1.4.8      1.4.11       java-archive  GHSA-hf23-9pf7-388p  Critical  
+xstream            1.4.8      1.4.16       java-archive  GHSA-hvv8-336g-rx3m  Medium    
+xstream            1.4.8      1.4.18       java-archive  GHSA-j9h8-phrw-h4fh  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-6wf9-jmg9-vxcc  Medium    
+xstream            1.4.8      1.4.16       java-archive  GHSA-f6hm-88x3-mfjv  Medium    
+xstream            1.4.8      1.4.15       java-archive  GHSA-jfvx-7wrx-43fh  Medium    
+xstream            1.4.8      1.4.18       java-archive  GHSA-p8pq-r894-fm8f  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-qrx8-8545-4wg2  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-2q8x-2p7f-574v  High      
+xstream            1.4.8      1.4.16       java-archive  GHSA-74cv-f58x-f9wf  Medium    
+xstream            1.4.8      1.4.16       java-archive  GHSA-56p8-3fh9-4cvq  Medium    
+xstream            1.4.8      1.4.18       java-archive  GHSA-6w62-hx7r-mw68  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-xw4p-crpj-vjx2  High      
+xstream            1.4.8      1.4.15       java-archive  GHSA-4cch-wxpw-8p28  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-64xx-cq4q-mf44  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-8jrj-525p-826v  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-g5w6-mrj7-75h2  High      
+xstream            1.4.8      1.4.14-jdk7  java-archive  GHSA-mw36-7c6c-q4q2  High      
+xstream            1.4.8      1.4.16       java-archive  GHSA-qpfq-ph7r-qv6f  Medium    
+xstream            1.4.8                   java-archive  GHSA-3mq5-fq9h-gj7j  Low       
+xstream            1.4.8      1.4.16       java-archive  GHSA-43gc-mjxg-gvrq  Medium    
+xstream            1.4.8      1.4.16       java-archive  GHSA-59jw-jqf4-3wq3  Medium    
+xstream            1.4.8      1.4.10       java-archive  GHSA-7hwc-46rm-65jh  High      
+xstream            1.4.8      1.4.18       java-archive  GHSA-h7v4-7xg3-hxcc  High      
+xstream            1.4.8      1.4.9        java-archive  GHSA-rgh3-987h-wpmw  High      
+xstream            1.4.8      1.4.16       java-archive  GHSA-2p3x-qw9c-25hh  High      
